@@ -10,6 +10,7 @@ Project 4: Application of transfer learning using VGG16 network for flower class
 Project 5: Denoising corrupted images using Auto Endcoders (Linear & CNN). <br/>
 Project 7 ***(CAPSTONE)***: Dog Breed classifier and Human detection.<br/>
 ### Recurrent Neural Network
-
+Project 8: Image classification using CNN from the CIFAR 10 database.<br/>
+Project 9: Sentiment Analysis using RNN and LSTM<br/>
 
  
