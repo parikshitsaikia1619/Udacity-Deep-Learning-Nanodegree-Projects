@@ -14,5 +14,7 @@ Project 8: Character level RNN for predicting next word in an input sentence.<br
 Project 9: Word2Vector Embeddings<br/>
 Project 10: Sentiment Analysis using RNN and LSTM<br/>
 Project 11 ***(CAPSTONE)***: TV Script Generation.<br/>
+### Generative Adversarial Network
+Project 12: Generating MNIST dataset using GAN.<br/>
 
  
