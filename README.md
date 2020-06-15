@@ -16,5 +16,9 @@ Project 10: Sentiment Analysis using RNN and LSTM<br/>
 Project 11 ***(CAPSTONE)***: TV Script Generation.<br/>
 ### Generative Adversarial Network
 Project 12: Generating MNIST dataset using GAN.<br/>
+Project 13:<br/>
+Project 14:<br/>
+Project 15:<br/>
+
 
  
