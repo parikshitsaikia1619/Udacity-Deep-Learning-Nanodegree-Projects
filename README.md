@@ -19,6 +19,7 @@ Project 12: Generating MNIST dataset using GAN.<br/>
 Project 13:DCGAN for House number plate generation<br/>
 Project 14: CycleGan for Domain Transfer<br/>
 Project 15 ***(CAPSTONE)***: Face Generation <br/>
-
+### Deploying ML model (Amazon AWS Sagemaker)
+Project 16 ***(CAPSTONE)***: Deploying a sentiment analysis model using amazon sagemaker.<br/>
 
  
